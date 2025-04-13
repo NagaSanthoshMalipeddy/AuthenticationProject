@@ -1,0 +1,295 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\smalipeddy\\OneDrive - SOTI Inc\\Naga Santhosh Malipeddy\\learning\\.Net\\EFCORE AND ADO\\Caching\\Authentication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{40CE8C9E-D57A-409F-8351-D214F728631D}|Authentication\\Authentication.csproj|c:\\users\\smalipeddy\\onedrive - soti inc\\naga santhosh malipeddy\\learning\\.net\\efcore and ado\\caching\\authentication\\authentication\\services\\secureauthvalidatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40CE8C9E-D57A-409F-8351-D214F728631D}|Authentication\\Authentication.csproj|solutionrelative:authentication\\services\\secureauthvalidatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40CE8C9E-D57A-409F-8351-D214F728631D}|Authentication\\Authentication.csproj|C:\\Users\\smalipeddy\\OneDrive - SOTI Inc\\Naga Santhosh Malipeddy\\learning\\.Net\\EFCORE AND ADO\\Caching\\Authentication\\authentication\\services\\signupservice\\securesignupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40CE8C9E-D57A-409F-8351-D214F728631D}|Authentication\\Authentication.csproj|solutionrelative:authentication\\services\\signupservice\\securesignupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40CE8C9E-D57A-409F-8351-D214F728631D}|Authentication\\Authentication.csproj|C:\\Users\\smalipeddy\\OneDrive - SOTI Inc\\Naga Santhosh Malipeddy\\learning\\.Net\\EFCORE AND ADO\\Caching\\Authentication\\authentication\\controllers\\signupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40CE8C9E-D57A-409F-8351-D214F728631D}|Authentication\\Authentication.csproj|solutionrelative:authentication\\controllers\\signupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40CE8C9E-D57A-409F-8351-D214F728631D}|Authentication\\Authentication.csproj|c:\\users\\smalipeddy\\onedrive - soti inc\\naga santhosh malipeddy\\learning\\.net\\efcore and ado\\caching\\authentication\\authentication\\provider\\signupprovider\\generalsignupprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40CE8C9E-D57A-409F-8351-D214F728631D}|Authentication\\Authentication.csproj|solutionrelative:authentication\\provider\\signupprovider\\generalsignupprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40CE8C9E-D57A-409F-8351-D214F728631D}|Authentication\\Authentication.csproj|c:\\users\\smalipeddy\\onedrive - soti inc\\naga santhosh malipeddy\\learning\\.net\\efcore and ado\\caching\\authentication\\authentication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40CE8C9E-D57A-409F-8351-D214F728631D}|Authentication\\Authentication.csproj|solutionrelative:authentication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40CE8C9E-D57A-409F-8351-D214F728631D}|Authentication\\Authentication.csproj|C:\\Users\\smalipeddy\\OneDrive - SOTI Inc\\Naga Santhosh Malipeddy\\learning\\.Net\\EFCORE AND ADO\\Caching\\Authentication\\authentication\\services\\rawauthvalidatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40CE8C9E-D57A-409F-8351-D214F728631D}|Authentication\\Authentication.csproj|solutionrelative:authentication\\services\\rawauthvalidatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40CE8C9E-D57A-409F-8351-D214F728631D}|Authentication\\Authentication.csproj|C:\\Users\\smalipeddy\\OneDrive - SOTI Inc\\Naga Santhosh Malipeddy\\learning\\.Net\\EFCORE AND ADO\\Caching\\Authentication\\authentication\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40CE8C9E-D57A-409F-8351-D214F728631D}|Authentication\\Authentication.csproj|solutionrelative:authentication\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40CE8C9E-D57A-409F-8351-D214F728631D}|Authentication\\Authentication.csproj|C:\\Users\\smalipeddy\\OneDrive - SOTI Inc\\Naga Santhosh Malipeddy\\learning\\.Net\\EFCORE AND ADO\\Caching\\Authentication\\authentication\\provider\\keyprovider\\keyprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40CE8C9E-D57A-409F-8351-D214F728631D}|Authentication\\Authentication.csproj|solutionrelative:authentication\\provider\\keyprovider\\keyprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40CE8C9E-D57A-409F-8351-D214F728631D}|Authentication\\Authentication.csproj|C:\\Users\\smalipeddy\\OneDrive - SOTI Inc\\Naga Santhosh Malipeddy\\learning\\.Net\\EFCORE AND ADO\\Caching\\Authentication\\authentication\\provider\\keyprovider\\ikeyprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40CE8C9E-D57A-409F-8351-D214F728631D}|Authentication\\Authentication.csproj|solutionrelative:authentication\\provider\\keyprovider\\ikeyprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40CE8C9E-D57A-409F-8351-D214F728631D}|Authentication\\Authentication.csproj|C:\\Users\\smalipeddy\\OneDrive - SOTI Inc\\Naga Santhosh Malipeddy\\learning\\.Net\\EFCORE AND ADO\\Caching\\Authentication\\authentication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{40CE8C9E-D57A-409F-8351-D214F728631D}|Authentication\\Authentication.csproj|solutionrelative:authentication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40CE8C9E-D57A-409F-8351-D214F728631D}|Authentication\\Authentication.csproj|C:\\Users\\smalipeddy\\OneDrive - SOTI Inc\\Naga Santhosh Malipeddy\\learning\\.Net\\EFCORE AND ADO\\Caching\\Authentication\\authentication\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40CE8C9E-D57A-409F-8351-D214F728631D}|Authentication\\Authentication.csproj|solutionrelative:authentication\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40CE8C9E-D57A-409F-8351-D214F728631D}|Authentication\\Authentication.csproj|C:\\Users\\smalipeddy\\OneDrive - SOTI Inc\\Naga Santhosh Malipeddy\\learning\\.Net\\EFCORE AND ADO\\Caching\\Authentication\\authentication\\provider\\rawauthprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40CE8C9E-D57A-409F-8351-D214F728631D}|Authentication\\Authentication.csproj|solutionrelative:authentication\\provider\\rawauthprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40CE8C9E-D57A-409F-8351-D214F728631D}|Authentication\\Authentication.csproj|C:\\Users\\smalipeddy\\OneDrive - SOTI Inc\\Naga Santhosh Malipeddy\\learning\\.Net\\EFCORE AND ADO\\Caching\\Authentication\\authentication\\provider\\iauthprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40CE8C9E-D57A-409F-8351-D214F728631D}|Authentication\\Authentication.csproj|solutionrelative:authentication\\provider\\iauthprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\smalipeddy\\OneDrive - SOTI Inc\\Naga Santhosh Malipeddy\\learning\\.Net\\EFCORE AND ADO\\Caching\\Authentication\\Authentication\\Program.cs",
+              "RelativeDocumentMoniker": "Authentication\\Program.cs",
+              "ToolTip": "C:\\Users\\smalipeddy\\OneDrive - SOTI Inc\\Naga Santhosh Malipeddy\\learning\\.Net\\EFCORE AND ADO\\Caching\\Authentication\\Authentication\\Program.cs",
+              "RelativeToolTip": "Authentication\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T11:04:06.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SecureAuthValidatorService.cs",
+              "DocumentMoniker": "C:\\Users\\smalipeddy\\OneDrive - SOTI Inc\\Naga Santhosh Malipeddy\\learning\\.Net\\EFCORE AND ADO\\Caching\\Authentication\\Authentication\\Services\\SecureAuthValidatorService.cs",
+              "RelativeDocumentMoniker": "Authentication\\Services\\SecureAuthValidatorService.cs",
+              "ToolTip": "C:\\Users\\smalipeddy\\OneDrive - SOTI Inc\\Naga Santhosh Malipeddy\\learning\\.Net\\EFCORE AND ADO\\Caching\\Authentication\\Authentication\\Services\\SecureAuthValidatorService.cs",
+              "RelativeToolTip": "Authentication\\Services\\SecureAuthValidatorService.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAjwEYAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T10:44:36.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GeneralSignUpProvider.cs",
+              "DocumentMoniker": "C:\\Users\\smalipeddy\\OneDrive - SOTI Inc\\Naga Santhosh Malipeddy\\learning\\.Net\\EFCORE AND ADO\\Caching\\Authentication\\Authentication\\Provider\\SignUpProvider\\GeneralSignUpProvider.cs",
+              "RelativeDocumentMoniker": "Authentication\\Provider\\SignUpProvider\\GeneralSignUpProvider.cs",
+              "ToolTip": "C:\\Users\\smalipeddy\\OneDrive - SOTI Inc\\Naga Santhosh Malipeddy\\learning\\.Net\\EFCORE AND ADO\\Caching\\Authentication\\Authentication\\Provider\\SignUpProvider\\GeneralSignUpProvider.cs",
+              "RelativeToolTip": "Authentication\\Provider\\SignUpProvider\\GeneralSignUpProvider.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T17:13:52.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IKeyProvider.cs",
+              "DocumentMoniker": "C:\\Users\\smalipeddy\\OneDrive - SOTI Inc\\Naga Santhosh Malipeddy\\learning\\.Net\\EFCORE AND ADO\\Caching\\Authentication\\Authentication\\Provider\\KeyProvider\\IKeyProvider.cs",
+              "RelativeDocumentMoniker": "Authentication\\Provider\\KeyProvider\\IKeyProvider.cs",
+              "ToolTip": "C:\\Users\\smalipeddy\\OneDrive - SOTI Inc\\Naga Santhosh Malipeddy\\learning\\.Net\\EFCORE AND ADO\\Caching\\Authentication\\Authentication\\Provider\\KeyProvider\\IKeyProvider.cs",
+              "RelativeToolTip": "Authentication\\Provider\\KeyProvider\\IKeyProvider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T16:40:58.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SecureSignUpService.cs",
+              "DocumentMoniker": "C:\\Users\\smalipeddy\\OneDrive - SOTI Inc\\Naga Santhosh Malipeddy\\learning\\.Net\\EFCORE AND ADO\\Caching\\Authentication\\Authentication\\Services\\SignUpService\\SecureSignUpService.cs",
+              "RelativeDocumentMoniker": "Authentication\\Services\\SignUpService\\SecureSignUpService.cs",
+              "ToolTip": "C:\\Users\\smalipeddy\\OneDrive - SOTI Inc\\Naga Santhosh Malipeddy\\learning\\.Net\\EFCORE AND ADO\\Caching\\Authentication\\Authentication\\Services\\SignUpService\\SecureSignUpService.cs",
+              "RelativeToolTip": "Authentication\\Services\\SignUpService\\SecureSignUpService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T12:59:40.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "C:\\Users\\smalipeddy\\OneDrive - SOTI Inc\\Naga Santhosh Malipeddy\\learning\\.Net\\EFCORE AND ADO\\Caching\\Authentication\\Authentication\\Controllers\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "Authentication\\Controllers\\AuthenticationController.cs",
+              "ToolTip": "C:\\Users\\smalipeddy\\OneDrive - SOTI Inc\\Naga Santhosh Malipeddy\\learning\\.Net\\EFCORE AND ADO\\Caching\\Authentication\\Authentication\\Controllers\\AuthenticationController.cs",
+              "RelativeToolTip": "Authentication\\Controllers\\AuthenticationController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T12:27:54.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SignUpController.cs",
+              "DocumentMoniker": "C:\\Users\\smalipeddy\\OneDrive - SOTI Inc\\Naga Santhosh Malipeddy\\learning\\.Net\\EFCORE AND ADO\\Caching\\Authentication\\Authentication\\Controllers\\SignUpController.cs",
+              "RelativeDocumentMoniker": "Authentication\\Controllers\\SignUpController.cs",
+              "ToolTip": "C:\\Users\\smalipeddy\\OneDrive - SOTI Inc\\Naga Santhosh Malipeddy\\learning\\.Net\\EFCORE AND ADO\\Caching\\Authentication\\Authentication\\Controllers\\SignUpController.cs",
+              "RelativeToolTip": "Authentication\\Controllers\\SignUpController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwAwAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T12:29:01.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RawAuthValidatorService.cs",
+              "DocumentMoniker": "C:\\Users\\smalipeddy\\OneDrive - SOTI Inc\\Naga Santhosh Malipeddy\\learning\\.Net\\EFCORE AND ADO\\Caching\\Authentication\\Authentication\\Services\\RawAuthValidatorService.cs",
+              "RelativeDocumentMoniker": "Authentication\\Services\\RawAuthValidatorService.cs",
+              "ToolTip": "C:\\Users\\smalipeddy\\OneDrive - SOTI Inc\\Naga Santhosh Malipeddy\\learning\\.Net\\EFCORE AND ADO\\Caching\\Authentication\\Authentication\\Services\\RawAuthValidatorService.cs",
+              "RelativeToolTip": "Authentication\\Services\\RawAuthValidatorService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T12:28:04.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "KeyProvider.cs",
+              "DocumentMoniker": "C:\\Users\\smalipeddy\\OneDrive - SOTI Inc\\Naga Santhosh Malipeddy\\learning\\.Net\\EFCORE AND ADO\\Caching\\Authentication\\Authentication\\Provider\\KeyProvider\\KeyProvider.cs",
+              "RelativeDocumentMoniker": "Authentication\\Provider\\KeyProvider\\KeyProvider.cs",
+              "ToolTip": "C:\\Users\\smalipeddy\\OneDrive - SOTI Inc\\Naga Santhosh Malipeddy\\learning\\.Net\\EFCORE AND ADO\\Caching\\Authentication\\Authentication\\Provider\\KeyProvider\\KeyProvider.cs",
+              "RelativeToolTip": "Authentication\\Provider\\KeyProvider\\KeyProvider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T16:41:27.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\smalipeddy\\OneDrive - SOTI Inc\\Naga Santhosh Malipeddy\\learning\\.Net\\EFCORE AND ADO\\Caching\\Authentication\\Authentication\\appsettings.json",
+              "RelativeDocumentMoniker": "Authentication\\appsettings.json",
+              "ToolTip": "C:\\Users\\smalipeddy\\OneDrive - SOTI Inc\\Naga Santhosh Malipeddy\\learning\\.Net\\EFCORE AND ADO\\Caching\\Authentication\\Authentication\\appsettings.json",
+              "RelativeToolTip": "Authentication\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-12T16:42:19.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\smalipeddy\\OneDrive - SOTI Inc\\Naga Santhosh Malipeddy\\learning\\.Net\\EFCORE AND ADO\\Caching\\Authentication\\Authentication\\Model\\User.cs",
+              "RelativeDocumentMoniker": "Authentication\\Model\\User.cs",
+              "ToolTip": "C:\\Users\\smalipeddy\\OneDrive - SOTI Inc\\Naga Santhosh Malipeddy\\learning\\.Net\\EFCORE AND ADO\\Caching\\Authentication\\Authentication\\Model\\User.cs",
+              "RelativeToolTip": "Authentication\\Model\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T12:30:58.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IAuthProvider.cs",
+              "DocumentMoniker": "C:\\Users\\smalipeddy\\OneDrive - SOTI Inc\\Naga Santhosh Malipeddy\\learning\\.Net\\EFCORE AND ADO\\Caching\\Authentication\\Authentication\\Provider\\IAuthProvider.cs",
+              "RelativeDocumentMoniker": "Authentication\\Provider\\IAuthProvider.cs",
+              "ToolTip": "C:\\Users\\smalipeddy\\OneDrive - SOTI Inc\\Naga Santhosh Malipeddy\\learning\\.Net\\EFCORE AND ADO\\Caching\\Authentication\\Authentication\\Provider\\IAuthProvider.cs",
+              "RelativeToolTip": "Authentication\\Provider\\IAuthProvider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T12:28:45.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RawAuthProvider.cs",
+              "DocumentMoniker": "C:\\Users\\smalipeddy\\OneDrive - SOTI Inc\\Naga Santhosh Malipeddy\\learning\\.Net\\EFCORE AND ADO\\Caching\\Authentication\\Authentication\\Provider\\RawAuthProvider.cs",
+              "RelativeDocumentMoniker": "Authentication\\Provider\\RawAuthProvider.cs",
+              "ToolTip": "C:\\Users\\smalipeddy\\OneDrive - SOTI Inc\\Naga Santhosh Malipeddy\\learning\\.Net\\EFCORE AND ADO\\Caching\\Authentication\\Authentication\\Provider\\RawAuthProvider.cs",
+              "RelativeToolTip": "Authentication\\Provider\\RawAuthProvider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T12:28:28.729Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
